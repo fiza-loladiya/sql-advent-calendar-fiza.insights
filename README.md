@@ -1,9 +1,9 @@
-# SQL Advent Calendar 2024
+# SQL Advent Calendar 2024 🎄💻
 
-This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge.
+This repository contains my solutions to **Interview Master’s 24-day SQL Advent Calendar** challenge.
 
-## About the Challenge
+✅ I completed **Days 1–17** while the challenge was **free**.  
+After Day 17, it required a **premium** plan, so I stopped there.
 
-The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL problems, hosted by Interview Master.
 
 Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
